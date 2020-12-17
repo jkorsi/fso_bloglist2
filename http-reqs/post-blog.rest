@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs 
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3QiLCJpZCI6IjVmM2Q2NThkNGIxZWNjNTdiYzAyMzQ2NyIsImlhdCI6MTU5Nzg1OTYzN30.Kt1F7ePnhVrimPqMEdqY0a7J5e-RwsfVlC_stdAcygQ
+
+{
+    "title": "COPY Test Guys Blog 4",
+    "author": "COPY Test Man",
+    "url":"COPY www.testmanblog4.com",
+    "likes": 123
+}

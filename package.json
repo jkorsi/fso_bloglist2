@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jkorsi/fso_bloglist.git"
+    "url": "git+https://github.com/jkorsi/fso_bloglist2.git"
   },
   "author": "Juho Suni",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jkorsi/fso_bloglist/issues"
+    "url": "https://github.com/jkorsi/fso_bloglist2/issues"
   },
-  "homepage": "https://github.com/jkorsi/fso_bloglist#readme",
+  "homepage": "https://github.com/jkorsi/fso_bloglist2#readme",
   "devDependencies": {
     "dotenv": "^8.2.0",
     "eslint": "^7.15.0",
